@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Maithili Raut
 
-<!--
-**Maithiliraut22/Maithiliraut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, AI/ML and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Aspiring Cloud Security Engineer
+
+### 🛠️ Technical Skills
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 🚀 Projects
+
+- Gourmet Haven – Restaurant Website
+- Web Development Projects
+- Java Programming Projects
+
+### 🌱 Currently Learning
+
+- MERN Stack
+- Machine Learning
+- Deep Learning
+- Cloud Security
+
+### 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/maithili-raut-84291734b/)
+- GitHub: [Maithiliraut22](https://github.com/Maithiliraut22)
