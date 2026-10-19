@@ -26,7 +26,6 @@
 - MERN Stack
 - Machine Learning
 - Deep Learning
-- Cloud Security
 
 ### 📫 Connect With Me
 
