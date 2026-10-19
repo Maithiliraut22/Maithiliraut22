@@ -4,8 +4,6 @@
 
 💻 Interested in Software Development, AI/ML and Web Development
 
-☁️ Aspiring Cloud Security Engineer
-
 ### 🛠️ Technical Skills
 
 - Python
